@@ -81,10 +81,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnnaBoiko1&show_icons=true&theme=default" alt="Anna's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=AnnaBoiko1" alt="Anna's GitHub Streak" />
 </p>
 
