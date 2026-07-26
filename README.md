@@ -28,10 +28,9 @@
 
 ### 👾 Featured Projects
 
-**[My Portfolio](https://github.com/AnnaBoiko1/my-portfolio)** — *Next.js 15+, React 19, Supabase, Tailwind, Clerk*
+**[My Portfolio](https://github.com/AnnaBoiko1/my-portfolio)** — *Next.js 15+, React 19, Tailwind*
 - Dynamic, multilingual (EN/UA/FR/DE) portfolio & project-management platform
-- Real-time data sync via Supabase (PostgreSQL), secure auth with Clerk, automated scheduling via Cal.com
-- In progress: admin dashboard, analytics, and an AI chatbot powered by Azure AI Foundry / Azure OpenAI (GPT-4o-mini)
+- Automated scheduling via Cal.com
 
 **[Ping It](https://github.com/S00J1NK1M/ping_it)** — *Ruby on Rails, React*
 - Table-tennis booking app with real-time mapping, match tracking, and reservation management
