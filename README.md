@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Anna </h1>
+<h1 align="center">Hi, I'm Anna ❀ </h1>
 <h3 align="center">Junior Data Analyst | Full-Stack Web Developer | Toronto, Canada</h3>
 <p align="center"><i>Creative problem-solver who loves turning ideas into working products</i></p>
 
@@ -13,20 +13,20 @@
 
 ---
 
-### 👩‍💻 About Me
+### About Me
 
 - 🔎 Data analyst with a Bachelor's degree in Philosophy and 2+ years of experience in retail data operations, progressing from Assistant to Manager
 - 🌍 Transitioned into tech after relocating to Germany during the war in Ukraine, where I built coding skills, later expanding into data analysis in Canada
 - 🛠️ Comfortable working with any programming languages and data workflows, with the ability to apply new tools quickly
 - 🤖 Hands-on experience with AI tools and AI-powered workflows, including building and improving digital projects, automating tasks, and using intelligent systems
 - 🎨 Creative at heart — I love turning ideas into real, working products
-- 💡 I help entrepreneurs turn traffic into paying customers by building landing pages that convert
+- 💰 I help entrepreneurs turn traffic into paying customers by building landing pages that convert
 - 🗣️ Fluent in English and Ukrainian, with intermediate German and Polish
 - 📍 Based in Toronto, actively looking for Data Analyst, Data Engineer, or Full-Stack Developer opportunities
 
 ---
 
-### 🚀 Featured Projects
+### 👾 Featured Projects
 
 **[My Portfolio](https://github.com/AnnaBoiko1/my-portfolio)** — *Next.js 15+, React 19, Supabase, Tailwind, Clerk*
 - Dynamic, multilingual (EN/UA/FR/DE) portfolio & project-management platform
@@ -93,7 +93,7 @@
 ### 🔗 Connect With Me
 
 - 🌐 Portfolio: [annaboiko.me](https://annaboiko.me)
-- 💼 LinkedIn: [@anna-boiko1](https://www.linkedin.com/in/anna-boiko1/)
-- 📫 GitHub: [@AnnaBoiko1](https://github.com/AnnaBoiko1)
+- 👩🏼‍💻 LinkedIn: [@anna-boiko1](https://www.linkedin.com/in/anna-boiko1/)
+- 😻 GitHub: [@AnnaBoiko1](https://github.com/AnnaBoiko1)
 
 Looking to connect with other developers — happy to contribute to interesting projects, or just to grab a coffee and talk tech if you're in Toronto! ☕
