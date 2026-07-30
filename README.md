@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anna ❀ </h1>
-<h3 align="center">Junior Data Analyst | Full-Stack Web Developer | Toronto, Canada</h3>
+<h3 align="center"> Data Analyst | Full-Stack Web Developer | Toronto, Canada</h3>
 <p align="center"><i>Creative problem-solver who loves turning ideas into working products</i></p>
 
 <p align="center">
