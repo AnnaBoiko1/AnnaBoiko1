@@ -28,6 +28,10 @@
 
 ### 👾 Featured Projects
 
+**[Bank Customer Churn Analysis](https://github.com/AnnaBoiko1)** — *Python, Pandas, Scikit-learn, Matplotlib*
+- Compared Logistic Regression (ROC-AUC 0.777) vs Random Forest (ROC-AUC 0.859) churn-prediction models
+- Published with a full README, workflow diagram, and reproducible `requirements.txt`
+
 **[My Portfolio](https://github.com/AnnaBoiko1/my-portfolio)** — *Next.js 15+, React 19, Tailwind*
 - Dynamic, multilingual (EN/UA/FR/DE) portfolio & project-management platform
 - Automated scheduling via Cal.com
@@ -39,10 +43,6 @@
 **[Lingoda Copycat](https://github.com/S00J1NK1M/lingoda_copycat)** — *Ruby on Rails, JavaScript (ES6), PostgreSQL*
 - Language-course booking platform with dynamic filtering and enrollment analytics
 - Reduced search time by 60% and improved reporting accuracy by 85% through optimized data pipelines
-
-**[Bank Customer Churn Analysis](https://github.com/AnnaBoiko1)** — *Python, Pandas, Scikit-learn, Matplotlib*
-- Compared Logistic Regression (ROC-AUC 0.777) vs Random Forest (ROC-AUC 0.859) churn-prediction models
-- Published with a full README, workflow diagram, and reproducible `requirements.txt`
 
 ---
 
